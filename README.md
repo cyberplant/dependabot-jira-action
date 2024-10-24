@@ -1,5 +1,5 @@
 
-# Dependaobot to JIRA Issue Sync Action
+# Dependabot to JIRA Issue Sync Action
 
 Use this github action to create Jira issue from the dependabot pull requests created in your repo.
 
